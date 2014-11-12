@@ -13,6 +13,8 @@ fun void sinGen(int a, int b, float duration)
     50::ms => now;
 }
 
+// Figure out how to pass UGen object as param
+// and remove this duplicate function.
 fun void triGen(int a, int b, float duration)
 {
     .8 => g2.gain;
