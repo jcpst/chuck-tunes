@@ -4,7 +4,9 @@ A place where I can store my experiments while learning [ChucK](http://chuck.cs.
 
 ![ChucK Logo](http://soundlab.cs.princeton.edu/images/chuck_logo2.jpg)
 
-Initially these will sound awful because I'm experimenting, and I like the sound of awful things.
+These may sound awful because:
+* I'm experimenting
+* I like the sound of awful things.
 
 ### Resources
 
