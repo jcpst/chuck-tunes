@@ -10,5 +10,6 @@ These may sound awful because:
 
 ### Resources
 
-* [Programmer's Reference](http://chuck.cs.princeton.edu/doc/program/)
+* [ChucK website](http://chuck.cs.princeton.edu/)
+* [ChucK GitHub Repo](https://github.com/ccrma/chuck)
 * [Notes on ChucK for Music](http://www.dtic.upf.edu/~gcoleman/chuck/tutorial/tutorial.html)
