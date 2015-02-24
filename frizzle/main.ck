@@ -27,6 +27,6 @@ fun void triGen(int a, int b, float duration)
 while (true) 
 {
     sinGen(60, 63, 1);
-    sinGen(60, 63, .75);
+    sinGen(61, 64, .75);
 }
 
