@@ -7,7 +7,7 @@ TriOsc tri => Gain g2 => dac;
 fun void sinGen(int a, int b, float duration)
 {
     .8 => g.gain;
-    Std.mtof( Math.random2(a, b) ) => sin.freq;
+    Std.mtof(Math.random2(a, b)) => sin.freq;
     duration::second => now;
     .0 => g.gain;
     50::ms => now;
@@ -18,7 +18,7 @@ fun void sinGen(int a, int b, float duration)
 fun void triGen(int a, int b, float duration)
 {
     .8 => g2.gain;
-    Std.mtof( Math.random2(a, b) ) => tri.freq;
+    Std.mtof(Math.random2(a, b)) => tri.freq;
     duration::second => now;
     .0 => g2.gain;
     50::ms => now;
